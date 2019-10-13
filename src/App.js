@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="container">
-      <img src={logo} alt="logo" />
+      <img className="image" src={logo} alt="logo" />
     </div>
   );
 }
